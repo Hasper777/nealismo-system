@@ -1,0 +1,9 @@
+component_styles = {
+    "color": "var(--bs-gray-800)",
+    "background_color": "var(--bs-gray-100)",
+    "border": "1px solid var(--bs-gray-200)",
+    "border_radius": "0.25rem"  # Ajusta el valor según sea necesario
+}
+component_header_styles = {
+    "color": "var(--bs-purple)"
+}
